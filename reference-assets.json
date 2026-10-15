@@ -119,6 +119,19 @@
       "site": "formai-library-2"
     },
     {
+      "id": "reference-nat18-97",
+      "name": "Nat I \u00b7 \u043f\u043e\u0437\u0430 97",
+      "file": "nat18-pose-97-uastc.glb",
+      "bytes": 118005852,
+      "triangles": 153138,
+      "sha256": "38bc07122e5338ed9785554492492cb39cadbf3e9038d3bc7108d52d51f07223",
+      "textureSize": 8192,
+      "release": "reference-models-pbr-preview-v1",
+      "materialVersion": 1,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
       "id": "reference-nat21-88",
       "name": "Nat II \u00b7 \u043f\u043e\u0437\u0430 88",
       "file": "nat21-pose-88-uastc.glb",
