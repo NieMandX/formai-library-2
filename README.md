@@ -1,2 +1,3 @@
-# formai-library-2
-FORMAI reference model assets — collection part 2
+# FORMAI model library
+
+Verified assets for https://niemandx.github.io/formai/. Original LOD0 and source texture resolution.

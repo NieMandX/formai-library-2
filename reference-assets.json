@@ -1,0 +1,109 @@
+{
+  "release": "reference-models-pbr-preview-v1",
+  "models": [
+    {
+      "id": "reference-ariel-42",
+      "name": "Ariel \u00b7 \u043f\u043e\u0437\u0430 42",
+      "file": "ariel-pose-42-uastc.glb",
+      "bytes": 44791044,
+      "triangles": 152926,
+      "sha256": "c590dfd0ac0de15e362da1b2a26d52ffc9bc686b9aae39a6e7f0bb0580ff60f6",
+      "textureSize": 8192,
+      "release": "reference-models-pbr-preview-v1",
+      "materialVersion": 1,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-ariel-44",
+      "name": "Ariel \u00b7 \u043f\u043e\u0437\u0430 44",
+      "file": "ariel-pose-44-uastc.glb",
+      "bytes": 44126500,
+      "triangles": 152838,
+      "sha256": "5362ad4bd2f44c3184862cb8505d43670fc9207446e02cc53a19474f15e1097b",
+      "textureSize": 8192,
+      "release": "reference-models-pbr-preview-v1",
+      "materialVersion": 1,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-ariel-46",
+      "name": "Ariel \u00b7 \u043f\u043e\u0437\u0430 46",
+      "file": "ariel-pose-46-uastc.glb",
+      "bytes": 41962492,
+      "triangles": 124198,
+      "sha256": "e5aae9da18d331d06ab53dbdfd0b7df235ed91f9c3cede4fa303b16170e7856c",
+      "textureSize": 8192,
+      "release": "reference-models-pbr-preview-v1",
+      "materialVersion": 1,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-ariel-57",
+      "name": "Ariel \u00b7 \u043f\u043e\u0437\u0430 57",
+      "file": "ariel-pose-57-uastc.glb",
+      "bytes": 42916840,
+      "triangles": 122854,
+      "sha256": "41f291d0dd49c47ae3c6d0adf37f97d5f600865eba02c0ddfe2a39cd9c5463fe",
+      "textureSize": 8192,
+      "release": "reference-models-pbr-preview-v1",
+      "materialVersion": 1,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-nat18-65",
+      "name": "Nat I \u00b7 \u043f\u043e\u0437\u0430 65",
+      "file": "nat18-pose-65-uastc.glb",
+      "bytes": 19224724,
+      "triangles": 158066,
+      "sha256": "1c6a8dd7bd98e1810dbe3613268944a0228d3b1c440e9ce8a86e2160ce628a90",
+      "textureSize": 4096,
+      "release": "reference-models-uastc-v2",
+      "materialVersion": 0,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-nat18-67",
+      "name": "Nat I \u00b7 \u043f\u043e\u0437\u0430 67",
+      "file": "nat18-pose-67-uastc.glb",
+      "bytes": 19356928,
+      "triangles": 154946,
+      "sha256": "499b92ec49dcce19dedfafd4a91b67eab923b05d8c9bd59416a97ac68e1fec87",
+      "textureSize": 4096,
+      "release": "reference-models-uastc-v2",
+      "materialVersion": 0,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-nat18-72",
+      "name": "Nat I \u00b7 \u043f\u043e\u0437\u0430 72",
+      "file": "nat18-pose-72-uastc.glb",
+      "bytes": 18636248,
+      "triangles": 154946,
+      "sha256": "0dba8f25e3f998aeaab12a94f4b05d5954f9b01f0b62d9783a1a85599972cbfc",
+      "textureSize": 4096,
+      "release": "reference-models-uastc-v2",
+      "materialVersion": 0,
+      "textureEncoding": "KTX2 UASTC",
+      "site": "formai-library-2"
+    },
+    {
+      "id": "reference-lucid-12",
+      "name": "Lucid II \u00b7 \u043f\u043e\u0437\u0430 12",
+      "file": "lucid-pose-12.glb",
+      "bytes": 40376304,
+      "triangles": 152572,
+      "sha256": "4606f8e66f24c5e92daaa9b8f8f0bfb1facbed1bf5fa452e3db91e8bd652b19b",
+      "textureSize": 8192,
+      "release": "reference-sources-v2",
+      "materialVersion": 0,
+      "textureEncoding": "PNG",
+      "site": "formai-library-2"
+    }
+  ]
+}
